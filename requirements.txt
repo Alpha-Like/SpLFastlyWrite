@@ -1,2 +1,6 @@
 alphagram
 SpLFastlyWrite==1.0.2
+motor
+pillow
+requests
+english-words
