@@ -1,0 +1,65 @@
+{
+      "name": "SpLFastlyWrite",
+      "description": "Word Spawner.",
+      "keywords": [
+         "telegram",
+         "FW",
+         "SpL",
+      ],   
+   "repository": "https://github.com/ShutupKeshav/SpLFastlyWrite",
+   "stack": "heroku-22",
+   "addons": [
+      {
+         "options": {
+            "version": "12"
+         }
+      }
+   ],
+   "env": {
+      "API_ID": {
+         "description": "Get this value from my.telegram.org/apps.",
+         "required": false,
+         "value": ""
+      },
+      "API_HASH": {
+         "description": "Get this value from my.telegram.org/apps.",
+         "required": false,
+         "value": ""
+      }
+     "BOT_TOKEN": {
+         "description": "Get this value from @BotFather.",
+         "required": true,
+         "value": ""
+      }
+     "MONGO_DB_URI": {
+         "description": "Get this value from mongodb.com.",
+         "required": true,
+         "value": ""
+      }
+     "OWNER_ID": {
+         "description": "Get this value from @SpL_Levi_Ackerman_Bot.",
+         "required": true,
+         "value": ""
+      }
+     "BACKGROUND_IMAGE_URL": {
+         "description": "Use telegraph to make links.",
+         "required": false,
+         "value": ""
+      }
+     "WORD_SPAWN_TIME": {
+         "description": "Enter in seconds.",
+         "required": false,
+         "value": "900"
+      }
+     "SUPPORT_GROUP": {
+         "description": "Get this value from Telegram.",
+         "required": false,
+         "value": ""
+      }
+     "SUPPORT_CHANNEL": {
+         "description": "Get this value from Telegram.",
+         "required": false,
+         "value": ""
+      },
+   }
+}
