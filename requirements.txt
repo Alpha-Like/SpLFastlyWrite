@@ -1,2 +1,2 @@
 alphagram
-SpLFastlyWrite==1.0.1
+SpLFastlyWrite==1.0.2
