@@ -1,5 +1,5 @@
 alphagram
-SpLFastlyWrite==1.0.2
+SpLFastlyWrite==1.0.3
 motor
 pillow
 requests
