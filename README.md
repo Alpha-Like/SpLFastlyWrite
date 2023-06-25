@@ -30,6 +30,7 @@
 » git clone forked_repo_url SpLFW
 
 » vi .env
+-----------
   => after doing 'vi .env', set ENV vars.
   => click on 'i' for enabling insert mode.
   => fill the env vars in the format below.
@@ -41,6 +42,7 @@
   => no need of single('') and double("") quotes.
   => after filling, use 'esc' to get out from insert mode.
   => use command ':wq' to save the file.
+-----------
     
 » cd SpLFW
 
