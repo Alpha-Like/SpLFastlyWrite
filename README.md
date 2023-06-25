@@ -31,17 +31,17 @@
 
 » vi .env
 -----------
-  » after doing 'vi .env', set ENV vars.
-  <br>» click on 'i' for enabling insert mode.</br>
-  » fill the env vars in the format below.
+  => after doing 'vi .env', set ENV vars.
+  <br>=> click on 'i' for enabling insert mode.</br>
+  => fill the env vars in the format below.
   
     BOT_TOKEN=647467816:bcahbcv_121bdbuhbj.....
     OWNER_ID=467641771
     MONGO_DB_URI=mongo://srv.....
 
-  » no need of single('') and double("") quotes.
-  » after filling, use 'esc' to get out from insert mode.
-  » use command ':wq' to save the file.
+  => no need of single('') and double("") quotes.
+  <br>=> after filling, use 'esc' to get out from insert mode.</br>
+  => use command ':wq' to save the file.
 -----------
     
 » cd SpLFW
