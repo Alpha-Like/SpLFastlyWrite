@@ -13,9 +13,9 @@
 ## REQUIREMENTS
 
 » BOT_TOKEN, Get it from [BotFather](https://t.me/BOTFATHER).
-» MONGO_DB_URI, Get it from [Mongo](www.mongodb.com).
+<br>» MONGO_DB_URI, Get it from [Mongo](www.mongodb.com).</br>
 » OWNER_ID, Get it from [Here](t.me/SpL_GH_Bot).
-» BACKGROUND_IMAGE_URL, Get it from anywhere, make link [here](t.me/SpL_GH_Bot) using /telegraph replying to it.
+<br>» BACKGROUND_IMAGE_URL, Get it from anywhere, make link [here](t.me/SpL_GH_Bot) using /telegraph replying to it.</br>
 
 ## VPS HOSTING
 
