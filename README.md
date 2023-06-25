@@ -32,7 +32,7 @@
 » vi .env
 -----------
   » after doing 'vi .env', set ENV vars.
-  » click on 'i' for enabling insert mode.
+  <br>» click on 'i' for enabling insert mode.</br>
   » fill the env vars in the format below.
   
     BOT_TOKEN=647467816:bcahbcv_121bdbuhbj.....
