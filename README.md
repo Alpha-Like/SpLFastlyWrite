@@ -33,7 +33,7 @@
 -----------
   => after doing 'vi .env', set ENV vars.
   <br>=> click on 'i' for enabling insert mode.</br>
-  => fill the env vars in the format below.
+  => fill the ENV vars in the format below.
   
     BOT_TOKEN=647467816:bcahbcv_121bdbuhbj.....
     OWNER_ID=467641771
