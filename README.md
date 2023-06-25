@@ -1,1 +1,38 @@
 # SpLFastlyWrite
+
+» Spawns word, first completes will be rewarded coins, group leaderboard, global leaderboard based on both coins and words is available !
+
+## CREDITS
+
+» [Dhanush](https://t.me/C_S_M_KING)
+
+» [Keshav](https://t.me/North_Yankton)
+
+## GITHUB
+
+» [ShutupKeshav](https://github.com/ShutupKeshav)
+
+## REQUIREMENTS
+
+» BOT_TOKEN, Get it from [BotFather](https://t.me/BOTFATHER).
+» MONGO_DB_URI, Get it from [Mongo](www.mongodb.com).
+» OWNER_ID, Get it from [Here](t.me/SpL_GH_Bot).
+» BACKGROUND_IMAGE_URL, Get it from anywhere, make link [here](t.me/SpL_GH_Bot) using /telegraph replying to it.
+
+## VPS HOSTING
+
+» Star and Fork the Repo.
+
+» Copy Forked repo link.
+
+» Go to your VPS Terminal.
+
+### VPS COMMANDS
+
+» git clone forked_repo_url SpLFW
+
+» cd SpLFW
+
+» pip install -r requirements.txt
+
+» python3 shivi.py
