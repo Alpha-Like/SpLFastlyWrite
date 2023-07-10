@@ -1,6 +1,6 @@
 alphagram
-SpLFastlyWrite==1.0.7
+SpLFastlyWrite==1.0.8
 motor
-pillow
+pillow==9.5.0
 requests
 english-words
