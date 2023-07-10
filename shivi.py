@@ -1,5 +1,3 @@
-from Spoiled.Shannu.alpha import __initialize__
-from config import load_env
+from Spoiled import __initialize__
 
-#load_env()
 __initialize__()
