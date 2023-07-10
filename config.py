@@ -13,3 +13,19 @@ BACKGROUND_IMAGE_URL = os.getenv("BACKGROUND_IMAGE_URL", None) # use Telegraph .
 WORD_SPAWN_TIME = os.getenv("WORD_SPAWN_TIME", None) # must be in seconds, Ex :- 900, Minimum :- 900.
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", None) # Ex :- 'Spoiled_Community'.
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", None) # Ex :- 'SpLBots'.
+
+# Do not change codes below !
+
+def load_env():
+  if LOAD_ENV:
+    dic = os.environ
+    dic["API_ID"] = API_ID
+    dic["API_HASH"] = API_HASH
+    dic["BACKGROUND_IMAGE_URL"] = BACKGROUND_IMAGE_URL
+    dic["WORD_SPAWN_TIME"] = WORD_SPAWN_TIME
+    dic["SUPPORT_GROUP"] = SUPPORT_GROUP
+    dic["SUPPORT_CHANNEL"] = SUPPORT_CHANNEL
+    dic["OWNER_ID"] = OWNER_ID
+    dic["MONGO_DB_URI"] = MONGO_DB_URI
+    dic["BOT_TOKEN"] = BOT_TOKEN
+    os.environ = dic
