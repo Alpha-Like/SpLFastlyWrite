@@ -7,7 +7,7 @@
          "SpL",
       ],   
    "repository": "https://github.com/ShutupKeshav/SpLFastlyWrite",
-   "stack": "heroku-22",
+   "stack": "container",
    "addons": [
       {
          "options": {
