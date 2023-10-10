@@ -5,6 +5,7 @@
 ## CREDITS
 
 » [Keshav](https://t.me/North_Yankton) [Telegram]
+» app.json by [Nothing](https://github.com/nothing002)
 
 ## GITHUB
 
